@@ -1,0 +1,6 @@
+{
+  "name": "Cyclist Highway Racer",
+  "description": "Android-style highway racer arcade game with 20 levels, dynamic background themes, shop upgrades (clothes, cycles, cars, motorbikes, horses, bow & arrows), and obstacle destruction mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
